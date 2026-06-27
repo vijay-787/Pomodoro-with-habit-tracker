@@ -2,14 +2,14 @@
 
 ## Files
 
--   index_separated.html
+-   index.html
 -   style.css
 -   script.js
 
 ## Setup
 
 1.  Keep all three files in the same folder.
-2.  Open `index_separated.html` in a browser.
+2.  Open `index.html` in a browser.
 
 ## Notes
 
